@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666185894 source:c:\users\scr\documents\codeblocks\obd_lab1\main.cpp
+	<io.h>
+	<iostream>
+	<cstring>
+
